@@ -127,6 +127,17 @@
         "mischevious"
       ],
       "id": "12"
+    },
+    {
+      "name": "Bob the tiger",
+      "species": "Tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
